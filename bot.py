@@ -2,7 +2,7 @@ import os
 from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, ContextTypes, filters
 
-TOKEN = os.getenv("6232063256:AAHUI1xCSHw-QlQfwVE4m1xS-b7dOgP1h3U")
+TOKEN = os.getenv("6232063256:AAHYNzd7yLBUqd37NMXiER22kp0ptGU592I")
 
 START_TEXT = """Привет! Я Амина — врач. Сама прошла через операцию, поэтому знаю этот путь не только как врач, но и как пациент.  Консультирую по двум направлениям:  — Подготовка к операции, — Реабилитация после операции. Напиши, что тебя интересует."""
 
